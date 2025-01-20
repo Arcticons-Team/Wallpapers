@@ -1,4 +1,4 @@
-fetch('./config.json')
+fetch('./config-normal.json')
     .then((response) => response.json())
     .then((json) => {
         for (entry of json) {
