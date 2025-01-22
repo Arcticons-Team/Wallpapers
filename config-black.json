@@ -4,5 +4,17 @@
 		"name": "Black Hole",
 		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/blackhole.webp",
 		"url": "https://wallpapers.arcticons.com/android/blackhole.png"
+	},
+	{
+		"name": "Square Flow (Dark)",
+		"author": "Haley Halcyon",
+		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/square_flow_dark.webp",
+		"url": "https://wallpapers.arcticons.com/android/square_flow_dark.png"
+	},
+	{
+		"name": "Square Flow (Light)",
+		"author": "Haley Halcyon",
+		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/square_flow_light.webp",
+		"url": "https://wallpapers.arcticons.com/android/square_flow_light.png"
 	}
 ]
