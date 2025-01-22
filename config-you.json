@@ -1,9 +1,27 @@
 [
 	{
-		"author": "Donno",
 		"name": "Black Hole",
+		"author": "Donno",
 		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/blackhole.webp",
 		"url": "https://wallpapers.arcticons.com/android/blackhole.png"
+	},
+	{
+		"author": "Donno",
+		"name": "White Hole",
+		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/whitehole.webp",
+		"url": "https://wallpapers.arcticons.com/android/whitehole.png"
+	},
+	{
+		"name": "Snowy forest",
+		"author": "Filip Filkovic Philatz",
+		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/snowyforest.webp",
+		"url": "https://wallpapers.arcticons.com/android/snowyforest.jpg"
+	},
+	{
+		"name": "Cold Winter",
+		"author": "Gabriel Alenius",
+		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/coldwinter.webp",
+		"url": "https://wallpapers.arcticons.com/android/coldwinter.jpg"
 	},
 	{
 		"name": "Square Flow (Dark)",
