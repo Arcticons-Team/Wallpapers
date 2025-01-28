@@ -40,5 +40,17 @@
 		"author": "Haley Halcyon",
 		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/metaball_light.webp",
 		"url": "https://wallpapers.arcticons.com/android/metaball_light.png"
+	},
+	{
+		"name": "Arcticons (Dark)",
+		"author": "Haley Halcyon",
+		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/arcticons_dark.webp",
+		"url": "https://wallpapers.arcticons.com/android/arcticons_dark.png"
+	},
+	{
+		"name": "Arcticons (Light)",
+		"author": "Haley Halcyon",
+		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/arcticons_light.webp",
+		"url": "https://wallpapers.arcticons.com/android/arcticons_light.png"
 	}
 ]
