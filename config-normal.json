@@ -6,22 +6,16 @@
 		"url": "https://wallpapers.arcticons.com/android/blackhole.png"
 	},
 	{
-		"name": "Treetops night",
-		"author": "Gabriel Alenius",
-		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/winter.webp",
-		"url": "https://wallpapers.arcticons.com/android/winter.jpg"
+		"name": "Snowy forest",
+		"author": "Filip Filkovic Philatz",
+		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/snowyforest.webp",
+		"url": "https://wallpapers.arcticons.com/android/snowyforest.jpg"
 	},
 	{
 		"name": "Square Flow (Dark)",
 		"author": "Haley Halcyon",
 		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/square_flow_dark.webp",
 		"url": "https://wallpapers.arcticons.com/android/square_flow_dark.png"
-	},
-	{
-		"name": "Square Flow (Light)",
-		"author": "Haley Halcyon",
-		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/square_flow_light.webp",
-		"url": "https://wallpapers.arcticons.com/android/square_flow_light.png"
 	},
 	{
 		"name": "Metaball (Dark)",
@@ -36,21 +30,9 @@
 		"url": "https://wallpapers.arcticons.com/android/metaball_gray.png"
 	},
 	{
-		"name": "Metaball (Light)",
-		"author": "Haley Halcyon",
-		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/metaball_light.webp",
-		"url": "https://wallpapers.arcticons.com/android/metaball_light.png"
-	},
-	{
 		"name": "Arcticons (Dark)",
 		"author": "Haley Halcyon",
 		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/arcticons_dark.webp",
 		"url": "https://wallpapers.arcticons.com/android/arcticons_dark.png"
-	},
-	{
-		"name": "Arcticons (Light)",
-		"author": "Haley Halcyon",
-		"thumbUrl": "https://wallpapers.arcticons.com/android/.thumbs/arcticons_light.webp",
-		"url": "https://wallpapers.arcticons.com/android/arcticons_light.png"
 	}
 ]
