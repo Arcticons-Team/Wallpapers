@@ -1,5 +1,11 @@
 # Wallpapers
-Wallpapers for Arcticons
+
+⚠️ THIS REPO HAS BEEN MOVED TO CODEBERG. ⚠️
+
+To contribute or use the latest version, visit:
+
+[Arcticons-Wallapers on Codeberg](https://codeberg.org/Arcticons/Arcticons-Wallpapers)
+
 
 ## How to contribute
 You will need to:
